@@ -22,8 +22,6 @@ Currently what I love is mobile develpment in flutter
 <h2 align="left">Technologies & Tools</h2>
 > Tools, languages, and other things that I like to work with.
 
-### knowledges
-
 ### General
   Clean code
   Clean Architecture
