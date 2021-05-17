@@ -23,26 +23,26 @@ Currently what I love is mobile develpment in flutter
 > Tools, languages, and other things that I like to work with.
 
 ### General
-  Clean code
-  Clean Architecture
-  Unit Tests
-  Integration Tests
+  Clean code<br>
+  Clean Architecture<br>
+  Unit Tests<br>
+  Integration Tests<br>
   
 ### Mobile
-  Dart
-  Flutter
-  State Management (Bloc/Cubit , Mobx)
+  Dart<br>
+  Flutter<br>
+  State Management (Bloc/Cubit , Mobx)<br>
   
 
 ### Backend
-  Java 
-  Node
+  Java <br>
+  Node<br>
   
 ### Web
-  React
-  AngularJs
-  Javascript
-  Typescript
+  React<br>
+  AngularJs<br>
+  Javascript<br>
+  Typescript<br>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
