@@ -9,7 +9,7 @@ Currently what I love is mobile develpment in flutter
 
 - 🎓 &nbsp; B.Sc. in Computer Science at Ouro Preto University.
 - ⚡ &nbsp; <a href="https://flutter.dev/">Flutter</a> enthusiast.
-- 👨‍🏫 &nbsp; Pursuing knowledge to make incredible dynamic apps, and an Open Source enthusiast.
+- 👨‍🏫 &nbsp; Pursuing knowledge to make incredible dynamic apps.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
